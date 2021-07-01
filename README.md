@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beekaysh
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently involved in projects related to Data Analysis using Python.
 - 💞️ I’m looking to collaborate on projects related to it.
 - 📫 How to reach me Email: beekaysh1996@gmail.com  |  LinkedIn: https://www.linkedin.com/in/bikesh1996/
 
